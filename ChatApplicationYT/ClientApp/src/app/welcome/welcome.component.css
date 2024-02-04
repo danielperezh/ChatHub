@@ -1,0 +1,28 @@
+.container {
+  max-width: 100%;
+  height: 100vh;
+  margin: auto;
+  background-color: #52ACFF;
+  background-image: linear-gradient(180deg, #00656e 25%, #00bdce 100%);
+}
+
+.text-center {
+  color: white;
+}
+
+.btn {
+  background-color: #EDBC77;
+  border: none;
+  color: #00656E;
+}
+
+.btn:hover {
+  background-color: #eea847;
+  color: white;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
